@@ -1,0 +1,11 @@
+{
+    "name": "4xBlue",
+    "version": "1.0.0",
+    "title": "4x Blue Belt speed",
+    "author": "Rasmus Berg Palm",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "0.16",
+    "dependencies": ["base >= 0.16"],
+    "description": "This mod changes the express belt (blue) to have 4x the speed of yellow belts instead of the default 3x."
+}
